@@ -25,16 +25,19 @@ Aplicativo Android para baixar áudio do YouTube em formato MP3, com reproduçã
 - app/src/main/res/: recursos visuais e strings
 - app/build.gradle.kts: configuração do módulo Android e dependências
 
-## APK
+## APK / Download
 
-O arquivo de instalação do app está em:
-- [releases/YtMp3.apk](releases/YtMp3.apk)
+O arquivo de instalação do app deve ser disponibilizado na seção Releases do GitHub:
+- [Baixar APK](https://github.com/JulioLiMendes/YtMp3/releases)
+
+Se você já tiver feito o upload do APK na aba Releases, o link acima abrirá a página de download diretamente.
 
 Para instalar:
-1. Baixe o arquivo acima.
-2. No celular, abra o APK.
-3. Se solicitado, permita a instalação de fontes desconhecidas.
-4. Conclua a instalação.
+1. Acesse a página de Releases acima.
+2. Baixe o arquivo APK.
+3. No celular, abra o APK.
+4. Se solicitado, permita a instalação de fontes desconhecidas.
+5. Conclua a instalação.
 
 ## Como navegar nas pastas
 
@@ -42,7 +45,7 @@ Para instalar:
 2. Entre em app/src/main/java para encontrar a lógica principal.
 3. Use app/src/main/res para alterar ícones, temas e textos.
 4. Consulte app/build.gradle.kts para ajustar dependências e configuração do módulo.
-5. O APK está sempre em [releases/YtMp3.apk](releases/YtMp3.apk).
+5. O download do APK fica na página de Releases do GitHub: [Baixar APK](https://github.com/JulioLiMendes/YtMp3/releases).
 
 ## Como executar localmente
 
@@ -61,7 +64,7 @@ Para instalar:
 
 ## Instalação
 
-Baixe o arquivo APK em [releases/YtMp3.apk](releases/YtMp3.apk) e instale no seu dispositivo Android.
+Baixe o arquivo APK na página de Releases do GitHub: [Baixar APK](https://github.com/JulioLiMendes/YtMp3/releases).
 
 ## Observações
 
